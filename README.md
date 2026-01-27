@@ -17,10 +17,10 @@ A portfolio-ready proof of concept demonstrating:
 - 📦 Clean architecture & documentation  
 
 🔗 **GitHub Repository:**  
-https://github.com/Manudtr125/Unified-Portal-Manuel-Silva
+https://github.com/Manudtr125/
 
 🔗 **Live Demo:**  
-https://manudtr125.github.io/Unified-Portal-Manuel-Silva/
+https://manudtr125.github.io//
 
 ---
 
