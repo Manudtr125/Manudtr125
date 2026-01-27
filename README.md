@@ -17,10 +17,10 @@ A portfolio-ready proof of concept demonstrating:
 - 📦 Clean architecture & documentation  
 
 🔗 **GitHub Repository:**  
-https://github.com/Manudtr125/
+https://github.com/Manudtr125/coming soon
 
 🔗 **Live Demo:**  
-https://manudtr125.github.io//
+https://manudtr125.github.io// coming soon
 
 ---
 
