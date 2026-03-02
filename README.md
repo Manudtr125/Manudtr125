@@ -28,7 +28,7 @@ https://manudtr125.github.io// coming soon
 Python CLI tool that parses logs, detects recurring patterns (exceptions/status codes/endpoints), and auto-generates an **RCA report template** + **self-service troubleshooting checklist**.
 
 🔗 **GitHub Repository:**  
-https://github.com/Manudtr125/log-rca-assistant
+https://github.com/Manudtr125/coming soon
 
 ---
 
